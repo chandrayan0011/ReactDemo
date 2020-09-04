@@ -21,7 +21,7 @@
   "homepage": "https://github.com/chandrayan0011/ReactDemo#readme",
   "devDependencies": {
     "lite-server": "^2.4.0",
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
